@@ -2,3 +2,10 @@
     width: 120px;
     border-radius: 50%;
 }
+
+.linha-div {
+    border: none;
+    border-top: 8px dotted #ccc;
+    width: 10%;
+
+}
